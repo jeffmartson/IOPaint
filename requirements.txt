@@ -9,7 +9,7 @@ controlnet-aux==0.0.3
 fastapi==0.108.0
 uvicorn
 python-multipart
-python-socketio==5.7.2
+python-socketio==5.14.0
 typer
 pydantic>=2.5.2
 rich

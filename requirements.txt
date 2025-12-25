@@ -1,4 +1,4 @@
-torch>=2.0.0
+torch>=2.2.0
 opencv-python
 diffusers==0.26.1
 accelerate
